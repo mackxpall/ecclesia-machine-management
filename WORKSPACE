@@ -1,3 +1,4 @@
+"<mm>."
 workspace(name = "com_google_ecclesia")
 
 # First load all the repositories we need.
